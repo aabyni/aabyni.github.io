@@ -16,7 +16,7 @@ p  {
 	font-family: "Courier New", monospace;
 }
 
-.center {
+center {
   display: flex;
   justify-content: center;
   align-items: center;
