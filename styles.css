@@ -26,6 +26,12 @@ p2  {
 	color: red;
 }
 
+.ascii-art {
+    white-space: pre;
+	text-align: left;
+    display: inline-block; /* Shrinks container to fit content */
+}
+
 a:link, a:visited {
     color: blue;
 	text-decoration: none;
