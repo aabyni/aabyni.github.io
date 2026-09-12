@@ -1,6 +1,6 @@
 h1 {
 	font-family: "Courier New", monospace;
-	text-align: left;
+	text-align: center;
   font-weight: normal;
 }
 
@@ -14,4 +14,10 @@ h6 {
 p  {
   color: red;
 	font-family: "Courier New", monospace;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
