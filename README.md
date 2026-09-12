@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<link rel="stylesheet" type="text/css" href="https://abyni.github.io/style.css">
+<link rel="stylesheet" type="text/css" href="https://aabyni.github.io/style.css">
 
 <html>
     <body>
