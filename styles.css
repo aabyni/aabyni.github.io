@@ -5,6 +5,7 @@ div {
 body {
 	font-family: "Courier New", monospace;
 	font-size: 16px; /* Base font size */
+	cursor: -webkit-grab; cursor: grab;
 }
 
 
@@ -15,7 +16,13 @@ h1 {
 	color: black;
 }
 
-p  {
+p1  {
+	font-size: 1em; /* 1 * 16 = 16px */
+	text-align: center;
+	color: black;
+}
+
+p2  {
 	font-size: 1em; /* 1 * 16 = 16px */
 	text-align: center;
 	color: red;
@@ -29,6 +36,7 @@ a:link, a:visited {
 a:hover {
 	color: black;
 	text-decoration: none;
+	cursor: -webkit-grabbing; cursor: grabbing;
 }
 
 a:active {
