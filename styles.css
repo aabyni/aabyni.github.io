@@ -1,18 +1,32 @@
-h1 {
+div {
+  padding: 50px 50px 75px;
+}
+
+h {
 	font-family: "Courier New", monospace;
 	text-align: center;
-  font-weight: normal;
-}
-
-h6 {
-	font-family: "Courier New", monospace;
-	text-align: left;
 	font-weight: normal;
-	color: blue;
-
+	color: black;
 }
+
 p  {
-  color: red;
 	font-family: "Courier New", monospace;
-		text-align: center;
+	text-align: center;
+	color: red;
+}
+
+a:link, a:visited {
+    color: blue;
+	text-decoration: none;
+}
+
+a:hover {
+	color: black;
+	text-decoration: none;
+}
+
+a:active {
+	color: green;
+	text-decoration: none;
+
 }
