@@ -1,6 +1,5 @@
-div {
-  padding: 50px 50px 75px;
-}
+html	{cursor: -webkit-grab; cursor: grab;}
+div		{padding: 50px 50px 75px;}
 
 body {
 	background: #FAFAFA;
